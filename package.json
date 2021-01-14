@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FredsGitHubAccount/React-Google-Books-Search.git"
+    "url": "git+https://github.com/Yigezu1/google-books-react-search.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FredsGitHubAccount/React-Google-Books-Search/issues"
+    "url": "https://github.com/Yigezu1/google-books-react-search/issues"
   },
-  "homepage": "https://github.com/FredsGitHubAccount/React-Google-Books-Search#readme",
+  "homepage": "https://github.com/Yigezu1/google-books-react-search/#readme",
   "devDependencies": {
     "concurrently": "^4.1.0",
     "nodemon": "^1.18.7"
