@@ -36,6 +36,4 @@ const BookWrapper = props => {
 
 }
 
-
-
 export default BookWrapper
