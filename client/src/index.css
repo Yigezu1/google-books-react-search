@@ -1,7 +1,4 @@
-body {
+#root {  
     
-    background-image: url('https://cdn.pixabay.com/photo/2015/07/17/22/42/library-849797_1280.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    
+     background-color: darkgray;
 }
