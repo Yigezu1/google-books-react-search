@@ -3,7 +3,7 @@
 
   # google-books-react-search
 
-  ![Capture4](https://user-images.githubusercontent.com/42190239/104536817-cae86900-55e6-11eb-96b3-0cb13223fbb2.PNG)
+  ![Capture4](https://user-images.githubusercontent.com/42190239/104793984-f0a27900-5772-11eb-8f0c-0f6bd9e10230.PNG)
   
   ## Deployed application link
   
